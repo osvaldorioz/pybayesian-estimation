@@ -10,6 +10,3 @@ Explicación del Código
     Método update:
         Calcula la media posterior y la varianza posterior basándose en la media y varianza a priori, así como la observación actual.
         Ajusta los valores a los posteriores para reflejar la actualización en el estado de la clase.
-
-    Enlace de Pybind11:
-        El módulo expone la clase BayesianEstimator a Python, permitiendo la creación de instancias, actualizaciones y obtención de resultados de la estimación.
